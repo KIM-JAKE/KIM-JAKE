@@ -38,9 +38,9 @@ Bachelor Degree of Mathematics ```(02/2021 ~ Present)``` (Sungkyunkwan Universit
 </span>
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jake630)](https://solved.ac/jake630)
 
-</div>
-</div>
 
 </details>
 <br><br>
