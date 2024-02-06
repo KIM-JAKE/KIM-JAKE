@@ -41,6 +41,9 @@ Bachelor Degree of Mathematics ```(02/2021 ~ Present)``` (Sungkyunkwan Universit
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </span>
 
+<span>
+    <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=html5&logoColor=white"/>
+</span>
 
 </details>
 <br><br>
