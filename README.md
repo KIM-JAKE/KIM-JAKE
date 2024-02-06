@@ -34,12 +34,12 @@ Bachelor Degree of Mathematics ```(02/2021 ~ Present)``` (Sungkyunkwan Universit
 </span>
    
 <span>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 </span>
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jake630)](https://solved.ac/jake630)
+<span>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</span>
 
 
 </details>
@@ -48,7 +48,6 @@ Bachelor Degree of Mathematics ```(02/2021 ~ Present)``` (Sungkyunkwan Universit
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAKE-KIM&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=JAKE-KIM&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAKE-KIM&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
