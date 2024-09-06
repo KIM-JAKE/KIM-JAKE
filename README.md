@@ -5,35 +5,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
-<span>
-  <a href="https://stydy-sturdy.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/>
-  </a>
-</span>
-
-
-## OBJECTIVE
-Reseach on deep learning
 
 ## EDUCATION
 Bachelor Degree of Mathematics ```(02/2021 ~ Present)``` (Sungkyunkwan University, Suwon)  
 
-## ADDITIONAL SKILLS
-<span>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-</span>
-   
-<span>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-</span>
-
-<span>
-    <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=html5&logoColor=white"/>
-</span>
 
 </details>
 <br><br>
