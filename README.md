@@ -8,6 +8,7 @@
 
 ## EDUCATION
 Intgrated M.S & Ph.D. in IPAI (Expected) ```(02/2025 ~ )``` (Seoul National University, Seoul)
+
 B.S in Mathematics ```(02/2021 ~ 02/2025)``` (Sungkyunkwan University, Suwon)  
 
 
