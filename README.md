@@ -7,7 +7,8 @@
 </span>
 
 ## EDUCATION
-Bachelor Degree of Mathematics ```(02/2021 ~ Present)``` (Sungkyunkwan University, Suwon)  
+Intgrated M.S & Ph.D. in IPAI (Expected) ```(02/2025 ~ )``` (Seoul National University, Seoul)
+B.S in Mathematics ```(02/2021 ~ 02/2025)``` (Sungkyunkwan University, Suwon)  
 
 
 </details>
